@@ -1,0 +1,2 @@
+# ruby_somewhere
+rubyならなんでもツッコむ
